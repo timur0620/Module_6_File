@@ -1,0 +1,21 @@
+$360Section
+$GetCurrent
+$Recycle.Bin
+$SysReset
+$WinREAgent
+BluetoothExchangeFolder
+Documents and Settings
+inetpub
+Intel
+ja-netfilter-all
+PerfLogs
+Program Files
+Program Files (x86)
+ProgramData
+Recovery
+System Volume Information
+unity
+Users
+Windows
+Windows.old
+XboxGames
